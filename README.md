@@ -11,7 +11,7 @@ In a previous lab, you learned how to create arrays and access the elements of a
 
 ## Instructions
 
-Fork and clone this lab. Run `learn` to see the initial test failures, then write the required methods in the `lib/introduction_to_simple_array_manipulation.rb` file to get the tests to pass. 
+Fork and clone this lab. Run `learn` to see the initial test failures, then write the required methods in the `lib/introduction_to_simple_array_manipulation.rb` file to get the tests to pass.
 
 Consult the official documentation of the [Ruby Language](http://ruby-doc.org/core-2.2.0/) for the methods you need to use to solve the problems in this lab.
 
